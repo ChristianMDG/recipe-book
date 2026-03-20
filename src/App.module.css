@@ -1,0 +1,24 @@
+.app {
+  min-height: 100vh;
+  background: #f6f4f1;
+  color: #1a1a1a;
+}
+
+.header {
+  padding: 1.5rem 1.25rem 1rem;
+  border-bottom: 1px solid #e2ddd4;
+  background: #fff;
+}
+
+.title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.main {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 2.5rem;
+}
