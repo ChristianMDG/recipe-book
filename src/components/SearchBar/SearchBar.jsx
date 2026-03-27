@@ -1,7 +1,7 @@
-
+import styles from './SearchBar.module.css';
 function SearchBar(props) {
   return (
-    <div>
+    <div className={styles.searchBar}>
       <input
         type="text"
         placeholder="Search recipes..."
